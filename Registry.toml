@@ -1,0 +1,7 @@
+name="TestRegistry"
+uuid="027f22b2-30a3-11eb-37f8-a5e258feef71"
+repo="http://www.github.com/Ellipse0934/TestRegistry"
+description="only a test"
+
+[packages]
+052768ef-5323-5732-b1bb-66c8b64840ba = { name = "CUDA", path = "CUDA" } 
